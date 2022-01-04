@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qabudhaim
-- 👀 I’m interested in embedded systems, IoT, AI
+- 👀 I’m interested in Embedded Systems, IoT, and AI
 - 🌱 I’m currently learning how to develop my own HALs for STM32F407xx
 
 <!---
